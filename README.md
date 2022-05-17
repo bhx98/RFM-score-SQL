@@ -1,0 +1,2 @@
+# RFM-score-calculation-with-SQL
+So I needed to calculate the learn how to calculate the RFM score of the customers of a company I work for. In order to do it I used the famous Northwind database as the target of this test. I followed the instructions in this article in order to calculate the aforementioned score successfully:   http://www.silota.com/docs/recipes/sql-recency-frequency-monetary-rfm-customer-analysis.html
